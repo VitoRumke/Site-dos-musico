@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn {
+    padding: 5px 25px;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    
+}
+.botton:hover{
+    color: rgb(58, 38, 8);
+}
+#login-btn {
+    margin-left: auto;
+}
+.content {
+    background-color: rgb(88, 88, 88);
+    padding: 20px;
+    margin-top: 0%;
+    height: 150px;
+
+}
+.bottom-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.random-names {
+    background-color: rgb(119, 109, 109);
+    padding: 10px;
+    border-radius: 10px;
+}
+#butto {
+    margin-left: 10px;
+}
